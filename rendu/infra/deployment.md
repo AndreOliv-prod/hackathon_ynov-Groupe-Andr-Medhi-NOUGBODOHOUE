@@ -1,4 +1,4 @@
-# Documentation de déploiement — INFRA
+# Documentation de déploiement - INFRA
 
 ## Choix technique
 Serveur d'inférence : **Ollama**, choisi pour sa simplicité de mise en place (clé en main),
