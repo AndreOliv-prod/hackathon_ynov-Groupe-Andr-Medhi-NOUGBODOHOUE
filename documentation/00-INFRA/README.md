@@ -1,4 +1,4 @@
-# INFRA — Déploiement du serveur d'inférence
+# INFRA - Déploiement du serveur d'inférence
 
 ## Contenu
 - `Modelfile` — configuration du modèle `techcorp-financial` (base `phi3.5`, system prompt, paramètres d'inférence)
